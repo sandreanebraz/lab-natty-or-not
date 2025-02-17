@@ -21,28 +21,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+ Avatar com voz feminina
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz um avatar com voz e aparência feminina e digitei o que eu queria que ela falace
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa que utilizei foi a D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei a D-ID para escolher o avatar e a voz que eu queria para fazer o video
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=e0658905c0c954b5dd11f1e23fcf3dd8&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
+É muito bom a experiência de conseguir fazer coisas com agilidade e perfeição utilizando as ias que estão disponiveis para agilizar a vida.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)https://studio.d-id.com/share?id=e0658905c0c954b5dd11f1e23fcf3dd8&utm_source=copy)
 
 ## Links Interessantes
 
